@@ -5,7 +5,7 @@
 ## Como é a divisão do repositório?
 
 A formação é divida em 4 passos, com seus respectivos cursos.
-No repositório, cada pasta é um curso, que contém as aulas e arquivos necessários
+No repositório cada pasta é um curso que contém as aulas, com os arquivos necessários.
 
 
 ## Configurações
