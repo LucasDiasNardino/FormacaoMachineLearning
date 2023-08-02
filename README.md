@@ -14,4 +14,5 @@ Para rodar os códigos, é necessário preparar o ambiente da seguinte maneira
 
 * Ter o Python 3 instalado
 * Ter o pip instalado
-* instalar biblioteca sklearn com o comando `` pip install -U scikit-learn ``
+* Instalar biblioteca sklearn com o comando `` pip install -U scikit-learn ``
+* Instalar demais biliotecas auxiliares com o comando ``pip install NOME``
